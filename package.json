@@ -1,13 +1,14 @@
 {
   "name": "tic-tac-toe",
   "version": "1.0.0",
-  "description": "https://hareubang.github.io/Tic_Tac_Toe/",
+  "homepage": "https://github.com/HareuBang/tic-tac-toe",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
@@ -28,5 +29,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
