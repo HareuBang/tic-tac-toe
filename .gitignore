@@ -32,4 +32,3 @@ Thumbs.db
 # Ignore build files
 /static/
 /asset-manifest.json
-/index.html
