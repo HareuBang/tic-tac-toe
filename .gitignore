@@ -28,3 +28,8 @@ Thumbs.db
 
 # 기타
 *.swp   # Vim의 스왑 파일
+
+# Ignore build files
+/static/
+/asset-manifest.json
+/index.html
