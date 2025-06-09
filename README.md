@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-https://hareubang.github.io/Tic_Tac_Toe/
+[https://hareubang.github.io/Tic_Tac_Toe/](https://hareubang.github.io/tic-tac-toe/)
 
 <!-- # 24-09-01
 
